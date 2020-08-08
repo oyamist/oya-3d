@@ -55,6 +55,8 @@ the boards.
 With a friend, assemble bed using screws provided with corners. 
 Do it by yourself if brave.
 
-### Add Poles
-Fasten poles to inside corners using wood scraps or brackets.
+### Add Pipe Frame
+The PVC Pipe frame can be used for shade cloth, solar panels and support string.
+Fasten PVC pipes to inside corners using wood scraps or brackets.
+Top with corners and remaining pipe cut to desired length.
 
