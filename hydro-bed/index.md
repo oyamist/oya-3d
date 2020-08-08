@@ -26,7 +26,7 @@ Choose lumber as for a deck.  Redwood or cedar can last 10-30 years.
 ### Sand, Paint and Cut
 
 * Cut lumber and label pieces according to best appearance. The bed has five levels, starting with level 1 at the bottom.
-* Chamfer top corner of level 5 pieces
+* Chamfer top two corners of level 5 pieces
 * Sand with 36-50 grit belt sander
 * Paint
 
