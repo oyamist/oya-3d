@@ -15,4 +15,7 @@ harvesting.
   | Qty | Lumber | Actual | Use |
   | :---: | :---: | :---: | :---: |
   | 5 | 2x6 | 5.5" x 62.5" | front; back |
+  | 5 | 2x6 | 5.5" x 63" | top |
+  | 6 | 2x6 | 5.5" x 27&frac14; | left; right |
+  | 2 | 2x6 | 5.5" x 12&frac12; | back |
 
