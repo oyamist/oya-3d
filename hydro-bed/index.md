@@ -17,7 +17,7 @@ Choose lumber as for a deck.  Redwood or cedar can last 10-30 years.
 * 7 x [2x6 12-foot](https://www.lowes.com/pd/Top-Choice-Redwood-Construction-Wood-Common-Actual-1-5-in-x-5-5-in-x-12-Feet/1000092875)
 * 3 x [2x4 12-foot](https://www.lowes.com/pd/Top-Choice-Redwood-Construction-Wood-Common-Actual-1-5-in-x-3-5-in-x-12-Feet/1000092851)
 * 8 x [2x4 Face-mount galvanized joist hanger](https://www.lowes.com/pd/Simpson-Strong-Tie-Double-Shear-Hanger-Z-MAX/3006442)
-* 1lb x [1&frac14" deck screws](https://www.lowes.com/pd/Grip-Rite-PrimeGuard-Ten-6-x-1-1-4-in-Polymer-Deck-Screws-1-lb/3122035)
+* 1lb x [1&frac14;" deck screws](https://www.lowes.com/pd/Grip-Rite-PrimeGuard-Ten-6-x-1-1-4-in-Polymer-Deck-Screws-1-lb/3122035)
 * 1Qt x [Redwood sealer and stain](https://www.lowes.com/pd/Valspar-Pre-Tinted-Redwood-Naturaltone-Transparent-Exterior-Stain-and-Sealer-Actual-Net-Contents-32-fl-oz/1000515809)
 * 2 x [23" Raised bed corners (pair)](https://www.gardeners.com/buy/raised-bed-corners/8609669.html)
 * 7 x [1" Schedule 40 PVC Pipe](https://www.lowes.com/pd/Charlotte-Pipe-1-in-dia-x-5-ft-L-450-PSI-PVC-Pipe/3133093)
