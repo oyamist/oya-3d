@@ -20,8 +20,8 @@ Choose lumber as for a deck.  Redwood or cedar can last 10-30 years.
 * 1lb x [1&frac14;" deck screws](https://www.lowes.com/pd/Grip-Rite-PrimeGuard-Ten-6-x-1-1-4-in-Polymer-Deck-Screws-1-lb/3122035)
 * 1Qt x [Redwood sealer and stain](https://www.lowes.com/pd/Valspar-Pre-Tinted-Redwood-Naturaltone-Transparent-Exterior-Stain-and-Sealer-Actual-Net-Contents-32-fl-oz/1000515809)
 * 2 x [23" Raised bed corners (pair)](https://www.gardeners.com/buy/raised-bed-corners/8609669.html)
-* 7 x [1" Schedule 40 PVC Pipe](https://www.lowes.com/pd/Charlotte-Pipe-1-in-dia-x-5-ft-L-450-PSI-PVC-Pipe/3133093)
-* 4 x [1" PVC Corner Elbow](https://www.lowes.com/pd/LASCO-1-in-x-1-in-x-1-in-x-1-in-dia-Side-Outlet-Elbow-PVC-Fitting/3344668)
+* 7 x [1" x 5' Schedule 40 PVC Pipe](https://www.lowes.com/pd/Charlotte-Pipe-1-in-dia-x-5-ft-L-450-PSI-PVC-Pipe/3133093)
+* 4 x [1"x1"x1" PVC Corner Elbow](https://www.lowes.com/pd/LASCO-1-in-x-1-in-x-1-in-x-1-in-dia-Side-Outlet-Elbow-PVC-Fitting/3344668)
 
 ### Sand, Paint and Cut
 
